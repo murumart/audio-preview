@@ -12,6 +12,8 @@ config_version=5
 
 config/name="audio-preview"
 run/main_scene="uid://cl3qm161c07al"
+config/use_custom_user_dir=true
+config/custom_user_dir_name="Murumart"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
